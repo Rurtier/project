@@ -1,1 +1,3 @@
-print("NO they are leaking mr obama's last name!")
+print("hello world")
+print('hello py')
+print('hlloe')
